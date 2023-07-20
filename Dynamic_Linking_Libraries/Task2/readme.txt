@@ -5,7 +5,7 @@ header files : NumbersSharedfile.h
 obj files : NumbersSharedfile.o
 shared objects :  Numbers.so
 Program Description :
-                      1. Numbers.so is contains two function Add and Sub which is defined in NumbersSharedfile.c
+                      1. Numbers.so is contains for four functions which is defined in NumbersSharedfile.c
                       2. NumbersSharedfile.h conatains prototypes of Functions
                       3. NumberClient.c load the libraries and call functions.
 
